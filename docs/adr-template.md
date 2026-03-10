@@ -9,6 +9,15 @@
 - **Autores:**
 - **Relacionados:**
 
+## Metadados de Governança
+- Documento:
+- Versão:
+- Responsável (owner):
+- Aprovador:
+- Última atualização:
+- Próxima revisão:
+- Classificação da informação: Interna | Restrita | Confidencial
+
 ## 1. Contexto
 - Cenário de negócio e técnico:
 - Problema que motivou a decisão:
