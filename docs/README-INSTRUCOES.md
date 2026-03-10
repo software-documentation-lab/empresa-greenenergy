@@ -8,6 +8,7 @@ Registrar uma decisão arquitetural relevante da GreenEnergy em formato ADR, com
 ## Documentação que deve ser produzida
 - Arquivo final: `docs/adr-001.md`
 - Referência de estrutura: `docs/adr-template.md`
+- Campo obrigatório no arquivo final: seção **Premissas, Lacunas e Riscos** preenchida.
 
 ## Regras da simulação
 - Esta atividade é uma simulação acadêmica.

@@ -18,6 +18,12 @@
 - Próxima revisão:
 - Classificação da informação: Interna | Restrita | Confidencial
 
+## Premissas, Lacunas e Riscos (preenchimento obrigatório)
+- Premissas (o que está sendo assumido para elaborar o documento):
+- Lacunas de informação (dados ausentes que impactam o detalhamento):
+- Riscos identificados (inclua impacto e mitigação sugerida):
+
+
 ## 1. Contexto
 - Cenário de negócio e técnico:
 - Problema que motivou a decisão:
